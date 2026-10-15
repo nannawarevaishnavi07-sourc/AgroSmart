@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">AgroSmart</string>
+    <string name="app_tagline">Smart Agriculture Management System</string>
+    <string name="empowering_farmers">Empowering Farmers with Technology</string>
+
+    <!-- Language Selection -->
+    <string name="select_language_title">Select Language</string>
+    <string name="select_language_subtitle">Choose your preferred language for the application</string>
+    <string name="lang_english">English</string>
+    <string name="lang_hindi">हिन्दी (Hindi)</string>
+    <string name="lang_marathi">मराठी (Marathi)</string>
+    <string name="btn_continue">Continue</string>
+
+    <!-- Authentication -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_account">Sign in to your AgroSmart account</string>
+    <string name="email_or_phone">Phone Number or Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="farmer_role">Farmer</string>
+    <string name="admin_role">Admin</string>
+    <string name="select_role">Select Your Role</string>
+
+    <!-- Navigation & Common -->
+    <string name="nav_home">Home</string>
+    <string name="nav_services">Services</string>
+    <string name="nav_marketplace">Market</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <!-- Modules -->
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="crop_prices">Crop Prices (Mandi)</string>
+    <string name="govt_schemes">Government Schemes</string>
+    <string name="agri_news">Agriculture News</string>
+    <string name="crop_guide">Crop Guide</string>
+    <string name="crop_disease">Crop Diseases</string>
+    <string name="tractor_booking">Tractor Booking</string>
+    <string name="fertilizer_inventory">Fertilizer Inventory</string>
+    <string name="crop_inventory">Crop Inventory</string>
+    <string name="marketplace">Agri Marketplace</string>
+    <string name="cart">My Cart</string>
+    <string name="orders">Orders</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="rent_out_tractor">Rent Out My Tractor</string>
+    <string name="add_tractor">Add Tractor / Machinery</string>
+
+    <!-- IoT Smart Farming Module -->
+    <string name="title_iot_dashboard">IoT Smart Farming</string>
+    <string name="subtitle_iot_dashboard">Real-time Soil, Weather &amp; Irrigation Control</string>
+    <string name="iot_soil_moisture">Soil Moisture</string>
+    <string name="iot_temp_humidity">Temperature &amp; Humidity</string>
+    <string name="iot_pump_control">Smart Irrigation Pump</string>
+    <string name="iot_auto_mode">Automatic Hysteresis</string>
+    <string name="iot_manual_mode">Manual Control</string>
+    <string name="iot_turn_on">Turn Pump ON</string>
+    <string name="iot_turn_off">Turn Pump OFF</string>
+    <string name="iot_status_online">Online</string>
+    <string name="iot_status_offline">Offline Cache Mode</string>
+    <string name="iot_recent_readings">Recent Sensor Readings</string>
+    <string name="iot_device_setup">ESP32 Setup &amp; Wiring</string>
+    <string name="iot_configure_thresholds">Irrigation Settings</string>
+</resources>

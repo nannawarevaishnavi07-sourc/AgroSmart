@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">एग्रोस्मार्ट</string>
+    <string name="app_tagline">स्मार्ट कृषि प्रबंधन प्रणाली</string>
+    <string name="empowering_farmers">किसानों को तकनीक से सशक्त बनाना</string>
+
+    <!-- Language Selection -->
+    <string name="select_language_title">भाषा चुनें</string>
+    <string name="select_language_subtitle">एप्लिकेशन के लिए अपनी पसंदीदा भाषा चुनें</string>
+    <string name="lang_english">English (अंग्रेजी)</string>
+    <string name="lang_hindi">हिन्दी (Hindi)</string>
+    <string name="lang_marathi">मराठी (Marathi)</string>
+    <string name="btn_continue">आगे बढ़ें</string>
+
+    <!-- Authentication -->
+    <string name="welcome_back">स्वागत है</string>
+    <string name="login_to_account">अपने एग्रोस्मार्ट खाते में लॉगिन करें</string>
+    <string name="email_or_phone">फ़ोन नंबर या ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="login">लॉगिन करें</string>
+    <string name="register">पंजीकरण करें</string>
+    <string name="dont_have_account">खाता नहीं है? पंजीकरण करें</string>
+    <string name="already_have_account">पहले से खाता है? लॉगिन करें</string>
+    <string name="farmer_role">किसान</string>
+    <string name="admin_role">व्यवस्थापक (Admin)</string>
+    <string name="select_role">अपनी भूमिका चुनें</string>
+
+    <!-- Navigation & Common -->
+    <string name="nav_home">होम</string>
+    <string name="nav_services">सेवाएं</string>
+    <string name="nav_marketplace">बाज़ार</string>
+    <string name="nav_bookings">बुकिंग</string>
+    <string name="nav_profile">प्रोफ़ाइल</string>
+    <string name="logout">लॉगआउट</string>
+
+    <!-- Modules -->
+    <string name="weather_forecast">मौसम का पूर्वानुमान</string>
+    <string name="crop_prices">मंडी भाव (फसल मूल्य)</string>
+    <string name="govt_schemes">सरकारी योजनाएं</string>
+    <string name="agri_news">कृषि समाचार</string>
+    <string name="crop_guide">फसल गाइड</string>
+    <string name="crop_disease">फसल रोग जानकारी</string>
+    <string name="tractor_booking">ट्रैक्टर बुकिंग</string>
+    <string name="fertilizer_inventory">उर्वरक इन्वेंट्री</string>
+    <string name="crop_inventory">फसल भंडारण</string>
+    <string name="marketplace">कृषि बाज़ार</string>
+    <string name="cart">मेरी गाड़ी (Cart)</string>
+    <string name="orders">आदेश (Orders)</string>
+    <string name="forgot_password">पासवर्ड भूल गए?</string>
+    <string name="reset_password">पासवर्ड रीसेट करें</string>
+    <string name="rent_out_tractor">अपना ट्रैक्टर किराए पर दें</string>
+    <string name="add_tractor">ट्रैक्टर / उपकरण जोड़ें</string>
+
+    <!-- IoT Smart Farming Module -->
+    <string name="title_iot_dashboard">IoT स्मार्ट फार्मिंग</string>
+    <string name="subtitle_iot_dashboard">वास्तविक समय मिट्टी, मौसम व सिंचाई नियंत्रण</string>
+    <string name="iot_soil_moisture">मिट्टी की नमी</string>
+    <string name="iot_temp_humidity">तापमान और आर्द्रता</string>
+    <string name="iot_pump_control">स्मार्ट सिंचाई पंप</string>
+    <string name="iot_auto_mode">स्वचालित हिस्टैरिसीस मोड</string>
+    <string name="iot_manual_mode">मैनुअल नियंत्रण</string>
+    <string name="iot_turn_on">पंप चालू करें</string>
+    <string name="iot_turn_off">पंप बंद करें</string>
+    <string name="iot_status_online">ऑनलाइन</string>
+    <string name="iot_status_offline">ऑफ़लाइन कैश मोड</string>
+    <string name="iot_recent_readings">हालिया सेंसर रीडिंग</string>
+    <string name="iot_device_setup">ESP32 सेटअप व वायरिंग</string>
+    <string name="iot_configure_thresholds">सिंचाई सीमा सेटिंग</string>
+</resources>
