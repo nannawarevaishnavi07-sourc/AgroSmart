@@ -1,0 +1,16 @@
+
+/app/build/
+/.gradle/
+/build/
+.idea/
+*.apk
+local.properties
+backend/target/
+
+/app/build/
+/.gradle/
+/build/
+.idea/
+*.apk
+local.properties
+backend/target/
